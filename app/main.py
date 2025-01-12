@@ -24,5 +24,5 @@ def run():
     print(result)
 
 # Condicional para ejecutar como script desde la terminal o para ser ejecutado desde otro archivo
-if __name__ == '__main__': # Muy común en archivos de Python para controlar la dualidad de los mmódulos
+if __name__ == '__main__': # Muy común en proyectos para controlar la dualidad de los mmódulos
     run()
